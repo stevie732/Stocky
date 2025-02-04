@@ -66,8 +66,8 @@ The backend, built with **Flask**, fetches stock data using the `yfinance` libra
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-tracking-app.git
-   cd stock-tracking-app
+   git clone https://github.com/stevie732/Stocky.git
+   cd Stocky
 
 ***
 
